@@ -1,0 +1,16 @@
+
+ h1{
+     color: rgb(129, 122, 122);
+     background-color: rgb(61, 14, 61);
+     font-size: 50px;
+     text-align: center;
+    }
+
+input{ 
+    color: rgb(98, 50, 50); 
+    background-color: aqua; 
+} 
+  form{
+      background-color: darkgrey;
+    }
+
